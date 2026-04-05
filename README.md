@@ -1,5 +1,5 @@
 # Hi, I'm Sermalakshmi 
-### Java Backend Developer | Spring Boot | PostgreSQL | JWT | Cloud
+#Java Backend Developer | Spring Boot | PostgreSQL | JWT | Cloud
 
 🚀 Projects  
 - Employee Management System (Spring Boot + JWT + PostgreSQL)
